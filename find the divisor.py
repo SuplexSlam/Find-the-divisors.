@@ -1,6 +1,7 @@
 '''
-I came across this problem in code war and I had fun time creating and coding it. Just enter a number and it
-will return an array with all the integer's divisor out the it's divisor from smallest to largest. Try entering a prime number too.
+I came across this problem in code war and I had fun and productive time coding this. And learned the importance of order of operation and how it effects the result you want to get.
+
+Just enter a numer and it will return an array with all of the integer's divisors(except for 1 and itself) from smallest to largest. Try entering a prime number too.
 '''
 
 user_input = int(input("➡➡➡➡➡➡: Enter a number below. \n➡➡➡➡➡➡: "))
